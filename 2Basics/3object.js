@@ -4,7 +4,7 @@ const sym=Symbol("Key1");
 const sym2=Symbol("Key2");
 
 
-
+// object
 let user={
     userName:"arpitr2002",
     "full Name":"Arpit Kumar Rai",
